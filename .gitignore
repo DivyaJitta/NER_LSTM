@@ -1,3 +1,4 @@
 Embeddings/
 NER-datasets/
 *.pickle
+*.pkl
