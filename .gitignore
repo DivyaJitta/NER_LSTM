@@ -2,3 +2,4 @@ Embeddings/
 NER-datasets/
 *.pickle
 *.pkl
+.ipynb_checkpoints/
